@@ -1,0 +1,13 @@
+INSERT INTO amenity (amenity) VALUES ('pet friendly');
+INSERT INTO amenity (amenity) VALUES ('hiking trails');
+INSERT INTO amenity (amenity) VALUES ('monuments');
+INSERT INTO amenity (amenity) VALUES ('geological features');
+INSERT INTO amenity (amenity) VALUES ('geothermal features');
+INSERT INTO amenity (amenity) VALUES ('restrooms');
+INSERT INTO amenity (amenity) VALUES ('picnic areas');
+INSERT INTO amenity (amenity) VALUES ('food stalls');
+INSERT INTO amenity (amenity) VALUES ('parking lot');
+INSERT INTO amenity (amenity) VALUES ('wifi');
+INSERT INTO amenity (amenity) VALUES ('water features');
+INSERT INTO amenity (amenity) VALUES ('park rangers present');
+INSERT INTO amenity (amenity) VALUES ('wildlife');
